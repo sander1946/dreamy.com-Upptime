@@ -4,19 +4,39 @@
     "url": "https://www.dreamyskysanctuary.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dreamyskysanctuary.com.ico",
     "slug": "dreamy-sky-sanctuary",
-    "status": "down",
-    "uptime": "3.71%",
-    "uptimeDay": "3.71%",
-    "uptimeWeek": "3.71%",
-    "uptimeMonth": "3.71%",
-    "uptimeYear": "3.71%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
+    "time": 42,
+    "timeDay": 42,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
     "dailyMinutesDown": {
-      "2024-09-22": 0
+      "2024-09-22": 6
+    }
+  },
+  {
+    "name": "DreamySkySanctuary",
+    "url": "https://sander1946.github.io/dreamy.com-Upptime/",
+    "icon": "https://icons.duckduckgo.com/ip3/sander1946.github.io.ico",
+    "slug": "dreamy-sky-sanctuary",
+    "status": "up",
+    "uptime": "0.79%",
+    "uptimeDay": "0.79%",
+    "uptimeWeek": "0.79%",
+    "uptimeMonth": "0.79%",
+    "uptimeYear": "0.79%",
+    "time": 42,
+    "timeDay": 42,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
+    "dailyMinutesDown": {
+      "2024-09-22": 6
     }
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "name": "DreamySkySanctuary",
+    "name": "Dreamy Sky Sanctuary",
     "url": "https://www.dreamyskysanctuary.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dreamyskysanctuary.com.ico",
     "slug": "dreamy-sky-sanctuary",
@@ -10,33 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
+    "time": 106,
     "timeDay": 107,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
-    "dailyMinutesDown": {
-      "2024-09-23": 0
-    }
-  },
-  {
-    "name": "DreamySkySanctuary",
-    "url": "https://sander1946.github.io/dreamy.com-Upptime/",
-    "icon": "https://icons.duckduckgo.com/ip3/sander1946.github.io.ico",
-    "slug": "dreamy-sky-sanctuary",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 107,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
-    "dailyMinutesDown": {
-      "2024-09-23": 0
-    }
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
+    "dailyMinutesDown": {}
   }
 ]

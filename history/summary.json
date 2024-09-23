@@ -15,7 +15,9 @@
     "timeWeek": 101,
     "timeMonth": 101,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-23": 0
+    }
   },
   {
     "name": "DreamySkySanctuary",
@@ -33,6 +35,8 @@
     "timeWeek": 101,
     "timeMonth": 101,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-23": 0
+    }
   }
 ]

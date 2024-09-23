@@ -3,10 +3,8 @@ owner: sander1946 # Your GitHub organization or username, where this repository 
 repo: dreamy.com-Upptime # The name of this repository
 
 sites:
-  - name: DreamySkySanctuary
+  - name: Dreamy Sky Sanctuary
     url: https://www.dreamyskysanctuary.com/
-  - name: DreamySkySanctuary
-    url: https://sander1946.github.io/dreamy.com-Upptime/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -4,17 +4,19 @@
     "url": "https://www.dreamyskysanctuary.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dreamyskysanctuary.com.ico",
     "slug": "dreamy-sky-sanctuary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 376,
-    "timeWeek": 448,
-    "timeMonth": 161,
-    "timeYear": 161,
-    "dailyMinutesDown": {}
+    "time": 163,
+    "timeDay": 344,
+    "timeWeek": 431,
+    "timeMonth": 163,
+    "timeYear": 163,
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   }
 ]
